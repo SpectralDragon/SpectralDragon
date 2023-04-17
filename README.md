@@ -1,14 +1,12 @@
 ### Hi there 👋
 
-Really glad to see you in my profile. 
+I'm really glad to see you on my profile. Here's a little bit about me:
 
-Little bit about me:
+- ✨ I'm a proud father of a beautiful girl. 
+- 👾 Currently, I'm working on [AdaEngine](https://github.com/LiteCode/AdaEngine) 
+- 👨🏻‍💻 I have 6 years of experience in iOS Software Engineering.
 
-- ✨ A father of pretty girl 
-- 👾 Currently working on [AdaEngine](https://github.com/LiteCode/AdaEngine) 
-- 👨🏻‍💻 I've 6 years of iOS Software Engineering.
-
-You can reach me in Telegram: @SpectralDragon
+Feel free to reach out to me on Telegram: @SpectralDragon
 
 ![](https://github-readme-stats.vercel.app/api?username=spectraldragon&show_icons=true&theme=default&count_private=true)
 
