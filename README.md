@@ -4,7 +4,7 @@ I'm really glad to see you on my profile. Here's a little bit about me:
 
 - ✨ I'm a proud father of a beautiful girl. 
 - 👾 Currently, I'm working on [AdaEngine](https://github.com/LiteCode/AdaEngine) 
-- 👨🏻‍💻 I have 6 years of experience in iOS Software Engineering.
+- 👨🏻‍💻 I have 9 years of experience in iOS Software Engineering.
 
 Feel free to reach out to me on Telegram: @SpectralDragon
 
